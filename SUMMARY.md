@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Index](README.md)
+* [Integration](integration.md)
+* [Service.yaml structure](service.yaml-structure.md)
 

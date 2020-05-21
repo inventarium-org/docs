@@ -1,4 +1,4 @@
-# Index
+# Integration
 
 ## Getting Super Powers
 
